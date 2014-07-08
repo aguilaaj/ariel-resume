@@ -1,0 +1,44 @@
+{
+  "bio": {
+    "firstName": "Ariel",
+    "lastName": "Aguilar",
+    "email": {
+      "personal": "ariel.jana.aguilar@gmail.com"
+    },
+    "phone": {
+      "personal": "(720) 216-7168"
+    },
+    "location": {
+      "city": "Seattle",
+      "countryCode": "US",
+      "state": "Washington"
+    },
+    "profiles": {
+      "github": "aguilaaj"
+    }
+  },
+  "work": [
+    {
+      "company": "Microsoft",
+      "position": "Program Manager",
+      "website": "http://microsoft.com",
+      "startDate": "2013-08-1"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Colorado at Boulder",
+      "startDate": "2009-01-01",
+      "endDate": "2013-01-01",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science Cum Laude"
+    },
+    {
+      "institution": "University of Colorado at Boulder",
+      "startDate": "2009-01-01",
+      "endDate": "2013-01-01",
+      "area": "Psychology",
+      "studyType": "Bachelor of Arts Summa Cum Laude"
+    }
+  ]
+}
