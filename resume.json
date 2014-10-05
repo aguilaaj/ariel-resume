@@ -1,14 +1,14 @@
 {
   "basics": {
     "name": "Ariel Aguilar",
-    "label": "Programmer",
+    "label": "Program Manager",
     "picture": "",
     "email": "ariel.jana.aguilar@gmail.com",
     "phone": "(720) 216-7168",
-    "website": "http://www.linkedin.com/pub/ariel-aguilar/32/218/4b5",
+    "website": "http://www.linkedin.com/in/aguilarariel",
     "summary": "",
     "location": {
-      "address": "1220 N. 45th St. Apt. 311",
+      "address": "1220 N. 45th St. Apt. 310",
       "postalCode": "98103",
       "city": "Seattle",
       "countryCode": "US",
@@ -27,8 +27,22 @@
       "company": "Microsoft",
       "position": "Program Manager",
       "website": "http://microsoft.com",
-      "summary": "",
-      "highlights": []
+      "summary": "The Bing Ads division at Microsoft is committed to helping advertisers and customers connect in today's competitive online marketplace. The paid search relevance and revenue team focuses on optimizing algorithms and the marketplace for a better Bing experience.",
+      "highlights": ["Drove multiple product features and deliverables emphasizing putting the user first.","Implemented new metrics for feature validation and debugging.", "Exemplified excellent project management, organization, and commitment."]
+    },
+    {
+      "company": "University of Colorado at Boulder: CU Language Project",
+      "position": "Professional Research Assistant",
+      "website": "http://psych.colorado.edu/~colungalab/CULanguage/CU-LANGUAGE.html",
+      "summary": "Pairing empirical research with computational models, the CU Language Project focuses on the intricate cognitive processeses that result in language acquisition.",
+      "highlights": ["Built semantic networks based on prototypical toddlers' language to study the interaction between phonology and semantics.", "Led research study utilizing computational models to inform what words toddlers will learn next.", "Expanded study by creating picture books based on models and measuring language acquisition of real toddlers."]
+    },
+    {
+      "company": "USAA",
+      "position": "Software Developer Intern",
+      "website": "https://usaa.com",
+      "summary": "USAA is dedicated to providing the best financial services to the military community.",
+      "highlights": ["Worked in a mainframe environment.", "Contributed to a new business service for the property & casualty insurance team."]
     }
   ],
   "education": [
@@ -36,19 +50,15 @@
       "institution": "University of Colorado at Boulder",
       "area": "Computer Science",
       "studyType": "Bachelor of Science Cum Laude",
-      "startDate": "2009-01-01",
-      "endDate": "2013-01-01",
-      "gpa": "4.0",
-      "courses": []
+      "startDate": "2009-08-01",
+      "endDate": "2013-05-01"
     },
     {
       "institution": "University of Colorado at Boulder",
       "area": "Psychology",
       "studyType": "Bachelor of Arts Summa Cum Laude",
-      "startDate": "2009-01-01",
-      "endDate": "2013-01-01",
-      "gpa": "4.0",
-      "courses": []
+      "startDate": "2009-08-01",
+      "endDate": "2013-05-01"
     }
   ],
   "languages": [
