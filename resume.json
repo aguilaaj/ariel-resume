@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Ariel Aguilar",
-    "label": "Program Manager",
+    "label": "Program Manager 2",
     "picture": "",
     "email": "ariel.jana.aguilar@gmail.com",
     "phone": "(720) 216-7168",
@@ -25,11 +25,18 @@
   "work": [
     {
       "company": "Microsoft",
+      "startDate": "2015-01-05",
+      "position": "Program Manager 2",
+      "summary": "The Azure Internet of Things team at Microsoft is breaking new ground in the IoT space as it grows in popularity and demand among hobbyists and enterprises.",
+      "highlights": ["Managed a vendor team of 4 developers and 1 designer for initial product release.","Drove e2e from spec, design, and scenarios to development, deployment and documentation of Azure IoT Suite preconfigured solutions."]
+    },
+    {
+      "company": "Microsoft",
       "startDate": "2013-08-05",
+      "endDate": "2015-01-05",
       "position": "Program Manager",
-      "website": "http://microsoft.com",
       "summary": "The Bing Ads division at Microsoft is committed to helping advertisers and customers connect in today's competitive online marketplace. The paid search relevance and revenue team focuses on optimizing algorithms and the marketplace for a better Bing experience.",
-      "highlights": ["Drove multiple product features and deliverables emphasizing putting the user first.","Implemented new metrics for feature validation and debugging.", "Exemplified excellent project management, organization, and commitment."]
+      "highlights": ["Designed and automated new KPIs for feature validation and debugging.", "Spearheaded new program for specialized web experiences based on seasonal events."]
     },
     {
       "company": "CU Language Project",
@@ -45,7 +52,6 @@
       "startDate": "2012-05-01",
       "endDate": "2012-08-15",
       "position": "Software Developer Intern",
-      "website": "https://usaa.com",
       "summary": "USAA is dedicated to providing the best financial services to the military community.",
       "highlights": ["Worked in a mainframe environment.", "Contributed to a new business service for the property & casualty insurance team."]
     }
@@ -66,14 +72,6 @@
       "endDate": "2013-05-01"
     }
   ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Native speaker"
-    }
-  ],
-
-
 
   "volunteer": [
     {
@@ -84,7 +82,7 @@
       "endDate": "2013-05-01",
       "summary": "Alpha Phi Omega is a national service organization that provides it members the chance to develop leadership skills through service projects on their campus, in their community and across the nation.",
       "highlights": [
-        "Recruited highest number of new members to date for the CU chapter."
+        "Recruited over 200 new members in one semester (highest number to date) for the CU chapter."
       ]
     }
   ],
@@ -93,12 +91,12 @@
       "title": "Silver Medal Award",
       "date": "2013-05-01",
       "awarder": "Colorado Engineering Council",
-      "summary": "The Silver Medal is the highest honor for students from the CEC. Each department nominates their one top student, based not only on scholarship, but also on achievements and involvement in community or college service, leadership and research. Ariel is the first ever winner from the Department of Computer Science since the award was first established in 1963."
+      "summary": "The Silver Medal is the highest honor for students from the CEC. Each Engineering department nominates one top student, based not only on scholarship, but also on achievements and involvement in community or college service, leadership and research. Ariel is the first ever winner from the Department of Computer Science since the award was first established in 1963."
     },
     {
       "title": "Imogene-Jacobs Award",
       "date": "2012-05-01",
-      "awarder": "Department of Psychology and Neuroscience",
+      "awarder": "University of Colorado at Boulder Department of Psychology and Neuroscience",
       "summary": "One rising senior Psychology major exhibiting exceptional promise in research is granted this award."
     }
   ],
@@ -106,9 +104,10 @@
     {
       "name": "Intellectual",
       "keywords": [
+        "Human Centered Computing",
+        "Internet of Things",
         "Information and Communication Technologies for Developing Communities",
-        "Anthropology",
-        "Health"
+        "Anthropology"
       ]
     },
     {
