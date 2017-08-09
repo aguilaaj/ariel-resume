@@ -6,7 +6,7 @@
     "email": "ariel.jana.aguilar@gmail.com",
     "phone": "(720) 216-7168",
     "website": "http://www.linkedin.com/in/aguilarariel",
-    "summary": "Ariel is a Colorado native, now living in Seattle. Before her time at Microsoft, she earned two degrees in her 4 years at the University of Colorado at Boulder in Psychology and Computer Science. She completed two theses, both involving computational models of language acquisition in children. She also spent some time working on a maternal health digital pen and a telecommunications network for secondary education in Peru. She's fascinated by people's interactions with technology and is constantly updating her definition of \"user experience\" accordingly.",
+    "summary": "Ariel is a Colorado native, now living in Seattle. Before her time at Microsoft, she earned two degrees in her 4 years at the University of Colorado at Boulder in Psychology and Computer Science. She completed two theses, both involving computational models of language acquisition in children. She's fascinated by people's interactions with technology and is constantly updating her definition of \"user experience\" accordingly.",
     "location": {
       "address": "1220 N. 45th St. Apt. 310",
       "postalCode": "98103",
@@ -28,7 +28,7 @@
       "startDate": "2015-01-05",
       "position": "Program Manager 2",
       "summary": "The Azure Internet of Things team at Microsoft is breaking new ground in the IoT space as it grows in popularity and demand among hobbyists and enterprises.",
-      "highlights": ["Managed a vendor team of 4 developers and 1 designer for initial product release.","Drove e2e from spec, design, and scenarios to development, deployment and documentation of Azure IoT Suite preconfigured solutions."]
+      "highlights": ["Managed a vendor team of 4 developers and 1 designer for initial product release.", "Drove e2e from spec, design, and scenarios to development, deployment and documentation of Azure IoT Suite preconfigured solutions.", "Currently training enterprise partners and driving customer success for our newly announced SaaS offering, Microsoft IoT Central"]
     },
     {
       "company": "Microsoft",
